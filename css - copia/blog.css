@@ -1,0 +1,50 @@
+#blog h3,h4 {
+    text-align: center;
+    
+}
+
+
+
+#blog .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#blog article {
+    margin: 15px;  
+    
+}
+
+#blog img {
+    width: 100%;
+    max-width: 280px;
+}
+
+
+#blog2 h2,P,h3,h4 {
+    text-align: center;
+    text-decoration: inherit;
+    text-decoration-color: crimson;
+    text-emphasis-position: below;
+    justify-content: center;
+    display: flex;
+    
+}
+
+
+
+#blog2 .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#blog2 article {
+    margin: 95px;  
+}
+
+#blog2 img {
+    width: 100%;
+    max-width: 280px;
+}
